@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0087351C-43F3-4CBB-9CE8-C36DC1BF095D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CE2F117C9B4106F64CEC2D12EF3764AAFF244F03</key>
+		<string>https://github.com/huibaoer/XIBDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XIBDemo03/XIBDemo03.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CE2F117C9B4106F64CEC2D12EF3764AAFF244F03</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/huibaoer/XIBDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CE2F117C9B4106F64CEC2D12EF3764AAFF244F03</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CE2F117C9B4106F64CEC2D12EF3764AAFF244F03</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XIBDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
